@@ -1,6 +1,5 @@
-package com.roscasend.android.androidcertificationmvvm;
+package com.roscasend.android.androidcertificationmvvm.model.bean;
 
-import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
